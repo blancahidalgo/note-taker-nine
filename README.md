@@ -44,7 +44,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Usage Information
-1. Click here to open the [Deployed Application Link:](add HEROKU LINK HERE)
+1. Click here to open the [Deployed Application Link:](https://note-taker-nine-final.herokuapp.com/)
 2. Click "Get Started" to open the app and start taking notes
 3. Enter text into the 'Note Titke' and 'Note Text' fields 
 4. Click the save icon (top right) to save the note
@@ -54,14 +54,14 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Installation Process
 1. Clone my Repository - (https://github.com/blancahidalgo/note-taker-nine) - from GitHub 
 2. Open the cloned repository in any source code editor, such as VS Code
-4. Open the integrated terminal for the document and complete the respectiv
+4. Open the integrated terminal for the document and complete make sure you know how to use all systems, languages and packages below
 
 ## Built With
-- JSON:[ JSON](https://www.npmjs.com/package/json)
-- Heroku:[ Heroku ](https://www.heroku.com/)
 - Dynamic JavaScript
-- Node.js [Version 16.18.1](https://nodejs.org/en/blog/release/v1...)
-- Express.js:[Express.js](https://expressjs.com/en/starter/inst...)
+- Express.js
+- Node.js 
+- JSON
+- Heroku
 
 ## Author
 
