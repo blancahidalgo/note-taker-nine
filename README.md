@@ -44,7 +44,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Usage Information
-1. Click here to open the [Deployed Application Link:](https://note-taker-nine-final.herokuapp.com/)
+1. Click here to open the [Deployed Application Link](https://note-taker-nine-final.herokuapp.com/)
 2. Click "Get Started" to open the app and start taking notes
 3. Enter text into the 'Note Titke' and 'Note Text' fields 
 4. Click the save icon (top right) to save the note
